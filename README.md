@@ -1,11 +1,11 @@
 # ¡ Bienvenido a mi perfil
 
-## Biografía
+## Biografía ✏
 
     - Estudiante de Desarollo de Aplicaciones WEB en IES Alixar, 22 años;
 ---
 
-## Habilidades
+## Habilidades ✨
 
     - Lenguaje de programación css, java, html;
     - Entornos de desarollo eclipse, visual code studio;
@@ -13,19 +13,19 @@
     - Sistemas operativos ubuntu y windows;
 ---
 
-## Proyectos
+## Proyectos 💻
 
     - Página web sobre un comercio con base de datos incluida;
     - Programa completo sobre máquina expendedora;
 ---
 
-## Intereses
+## Intereses ❤
 
     - Desarollar diseños de páginas web;
     - Programar aplicaciones o herramientas;
 ---
 
-## Redes
+## Redes 🌐
 
     - Twitter;
     - Youtube;
