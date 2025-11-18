@@ -2,7 +2,7 @@
 
 ## Biografía ✏
 
-    - Estudiante de Desarollo de Aplicaciones WEB en IES Alixar, 22 años;
+    - Estudiante de Desarollo de Aplicaciones WEB en IES Alixar, 23 años;
 ---
 
 ## Habilidades ✨
